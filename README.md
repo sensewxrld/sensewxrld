@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arthur and I'm a Full-Stack Developer, from Brasil.</p>
+<p align="left">My name is Arthur and I'm a CyberSecurity Analyst, from Brasil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning cybersecurity<br>🎲 Fun fact: My dream is to become a pentester.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning cloud<br>🎲 Fun fact: My dream is to become a pentester.</p>
 
 ###
 
